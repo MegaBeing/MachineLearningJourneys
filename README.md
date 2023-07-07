@@ -1,3 +1,44 @@
+
+# Machine Learning Journeys
+Github Repository for Machine Learning Beginners and consists of all references to the libraries like:  
+* NumPy
+* Pandas
+* Matplotlib
+* Scikit-learn (Sklearn)
+
+## Installation
+
+Python Environment
+
+### Linux
+
+```bash
+    sudo apt install python3
+    sudo apt install pip
+```
+_Virtual Environment_  
+
+[Install Anaconda](https://docs.anaconda.com/free/anaconda/install/linux/)  
+[Install Conda]()
+
+### Important libraries _(Nvidia-Gpu Required)_
+[Tensorflow](https://docs.anaconda.com/free/anaconda/applications/tensorflow/) [using conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/linux.html)
+
+Numpy : [Documentation](https://numpy.org/doc/)
+```bash
+    pip install Numpy
+```
+Pandas : [Documentation](https://pandas.pydata.org/docs/)
+```bash
+    pip install pandas
+```
+Scikit-Learn (Sklearn) : [Documentation](https://scikit-learn.org/0.21/documentation.html)
+```bash
+    pip install scikit-learn
+```
+
+    
+
 # 💫 About Me:
 I'm a Software developer who likes to work on the profound applications on Machine Learning, Deep Learning, etc
 
