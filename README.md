@@ -19,11 +19,12 @@ Python Environment
 _Virtual Environment_  
 
 [Install Anaconda](https://docs.anaconda.com/free/anaconda/install/linux/)  
-[Install Conda]()
+**OR**  
+[Install conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/linux.html)
+
 
 ### Important libraries _(Nvidia-Gpu Required)_
-[Tensorflow](https://docs.anaconda.com/free/anaconda/applications/tensorflow/) [using conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/linux.html)
-
+[Tensorflow](https://docs.anaconda.com/free/anaconda/applications/tensorflow/)
 Numpy : [Documentation](https://numpy.org/doc/)
 ```bash
     pip install Numpy
